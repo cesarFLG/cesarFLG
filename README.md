@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Cesar Gervasoni
+# 👋 Olá, eu sou  Cesar Gervasoni
 
 ### 💻 Estudante de Eng. de Software formado em Desen. de Sistemas
 
