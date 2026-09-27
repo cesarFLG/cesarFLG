@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Cesar Gervasoni
 
-### 💻 Estudante de Desenvolvimento de Software
+### 💻 Estudante de Eng. de Software
 
 Tenho construído projetos para desenvolver minha base em programação, backend, bancos de dados e desenvolvimento de aplicações.
 
